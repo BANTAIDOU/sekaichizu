@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background-image: url("https://i.ibb.co/YBs5mzMC/1-1.png"); /* ←直リンクに置き換え */
+  background-size: cover;     /* 画面いっぱいに広げる */
+  background-position: center; /* 中央に配置 */
+  background-repeat: no-repeat; /* 繰り返さない */
+  font-family: sans-serif;
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
