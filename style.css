@@ -6,7 +6,6 @@ body {
   background-position: center; /* 中央に配置 */
   background-repeat: no-repeat; /* 繰り返さない */
   font-family: sans-serif;
-  color: white;
   text-align: center;
   display: flex;
   flex-direction: column;
